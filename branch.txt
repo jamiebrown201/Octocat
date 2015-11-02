@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a divergence from the main line of development and you can continue to do work without interfering with the main branch
