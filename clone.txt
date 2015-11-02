@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Copies the project locally and gives you a working directory so you can look at the code and start editing it.
